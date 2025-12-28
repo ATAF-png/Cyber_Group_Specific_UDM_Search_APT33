@@ -1,0 +1,2 @@
+metadata.event_type = "SCHEDULED_TASK_CREATION"
+re.regex(target.resource.name, `\.vbe`) nocase
