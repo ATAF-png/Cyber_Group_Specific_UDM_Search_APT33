@@ -1,0 +1,6 @@
+(
+  target.process.file.full_path = /sniffpass/ nocase or
+  target.process.command_line = /sniffpass/ nocase or
+  principal.process.command_line = /sniffpass/ nocase or
+  target.file.full_path = /sniffpass/ nocase
+)
